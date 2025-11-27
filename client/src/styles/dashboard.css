@@ -1,0 +1,6 @@
+/* dashboard.css */
+.filters { display: flex; gap: 8px; align-items: center; margin-bottom: 12px; }
+.search { flex: 1; padding: 8px; border-radius: 6px; border: 1px solid #e5e7eb; }
+.reports-list { display: grid; gap: 12px; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); }
+.empty-state { padding: 24px; background: var(--card); border-radius: var(--radius); box-shadow: var(--shadow); color: var(--muted); text-align: center; }
+.help-box { background: white; padding: 12px; border-radius: 8px; box-shadow: var(--shadow); font-size: 14px; color: var(--muted); }
