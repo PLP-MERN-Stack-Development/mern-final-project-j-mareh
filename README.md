@@ -1,1 +1,0 @@
-# wajibu-app
